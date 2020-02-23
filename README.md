@@ -1,1 +1,3 @@
-# cuddly-octo-chainsaw
+# maven-project
+
+Simple Maven Project
